@@ -1,3 +1,8 @@
+## 4.0.3+1
+
+- Migrate Material widgets to `package:material_ui`; update examples and tests to the extracted UI packages.
+- Require Dart 3.13 and Flutter 3.47 or newer. Applications must use `package:material_ui` for their theme, localizations, and Material widgets.
+
 ## 4.0.3
 
 ### Fixed

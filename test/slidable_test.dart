@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:flutter_slidable/src/action_pane_motions.dart';
 import 'package:flutter_slidable/src/actions.dart';
 import 'package:flutter_slidable/src/slidable.dart';

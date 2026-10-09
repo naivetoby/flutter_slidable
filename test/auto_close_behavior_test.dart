@@ -1,5 +1,5 @@
 import 'package:collection/collection.dart';
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:flutter_slidable/src/auto_close_behavior.dart';
 import 'package:flutter_slidable/src/controller.dart';
 import 'package:flutter_slidable/src/notifications.dart';
